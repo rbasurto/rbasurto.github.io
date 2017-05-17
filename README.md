@@ -1,8 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/rbasurto/rbasurto.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas lacinia mattis eros sit amet lacinia. Nullam justo mi, scelerisque vel aliquam a, suscipit ac mauris. Praesent molestie massa urna. Donec placerat, dui id ornare ornare, lorem augue placerat risus, eget porta magna magna at massa. Morbi ac dui luctus, aliquam nibh non, condimentum orci. Ut eget lectus arcu. Mauris blandit aliquet ante, et auctor risus aliquet in. Fusce id elit quis enim auctor egestas. Vestibulum in enim fringilla elit tempus eleifend auctor sit amet nisi. Nunc molestie luctus nunc, at blandit urna aliquet tempor. Nunc non felis a dolor consectetur scelerisque sit amet fermentum tortor. Vivamus tempus, quam ut fermentum gravida, nibh eros faucibus libero, vel posuere massa sapien ac purus.
 
 ### Markdown
 
@@ -30,7 +28,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rbasurto/rbasurto.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings]. The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
